@@ -27,8 +27,10 @@ class School
         
     end
 end
-        # roster.each do |roster|
-        #     if roster == grade
-        #     @roster[@grade] = []
-        #     @roster[@grade] << @name
-        # end
+
+
+# roster.each do |roster|
+#     if roster == grade
+#     @roster[@grade] = []
+#     @roster[@grade] << @name
+# end
